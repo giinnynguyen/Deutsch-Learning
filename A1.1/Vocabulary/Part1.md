@@ -31,3 +31,9 @@
 | wer         | who         |
 | bist(sein)  | are(to be)  |
 | du          | you         |
+
++ und wie heißt du?
+
+| ----------- | ----------- |
+| und         | and         |
+| wie         | how         |  

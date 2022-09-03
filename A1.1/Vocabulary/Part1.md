@@ -34,6 +34,7 @@
 
 + und wie heißt du?
 
+|             |             |
 | ----------- | ----------- |
 | und         | and         |
 | wie         | how         |  

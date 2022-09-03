@@ -23,3 +23,11 @@
 | mein        | my          |
 | der Name    | name        |
 | ist(sein)   | is (to be)  |
+
++ Wer bist du?
+
+|             |             |
+| ----------- | ----------- |
+| wer         | who         |
+| bist(sein)  | are(to be)  |
+| du          | you         |
